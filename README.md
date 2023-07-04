@@ -34,7 +34,9 @@ The details of the instances are:
 
 The Results folder has the best solution found for each instance of each problem type (FSM and HVRP). The detail of each individual route has the type of vehicle and the sequence of farms it runs through. It must be considered that the start and end of each one must have 'P' since it starts and ends at the plant. The solution method with which these results were obtained was a Multi-Start Iterated Local Search (MS-ILS).
 
-This problem is applied in the following work:
+This problem is applied in the following works:
+
+López-Castro, L. F., Solano-Charris, E. L., & Pagès-Bernaus, A. (2023). Environmental approach for the design of raw milk collection routes with a heterogeneous fleet. Computers and Electronics in Agriculture, 211, 107995. [Link](https://www.sciencedirect.com/science/article/pii/S0168169923003836)
 
 López-Castro, L. F., & Solano-Charris, E. L. (2022, May). Environmental optimization model for a milk collection problem with heterogeneous fleet. In *2022 8th International Conference on Control, Decision and Information Technologies (CoDIT)* (Vol. 1, pp. 413-418). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9804059?casa_token=lKi3Z1AkhY8AAAAA:c4c5dDHORPHhh0iuYlRNsPVMGoJHl5wpiQ1_0Kqam-46_lwkBBPgqS9dWVPiXwlbYajn7S0zR50)
 
